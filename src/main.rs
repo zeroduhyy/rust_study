@@ -9,4 +9,5 @@ fn greet_world() {
 }
 
 fn main() {
-    greet_world()
+    greet_world();
+}
